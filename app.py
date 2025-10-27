@@ -45,7 +45,7 @@ with gr.Blocks(css=custom_css, theme="gradio/monochrome") as demo:
         <div class="before">
             <img src="assets/demo_gray.jpg" alt="Before">
         </div>
-        <img src="assets/demo_color.jpg" alt="After">
+        <img src="assets/demo_color.png" alt="After">
         <input type="range" min="0" max="100" value="50" oninput="this.previousElementSibling.style.width=this.value+'%'">
     </div>
     <br>
