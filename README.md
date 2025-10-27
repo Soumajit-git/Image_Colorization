@@ -1,8 +1,8 @@
 ---
 title: Image Colorization
 emoji: 🏆
-colorFrom: pink
-colorTo: blue
+colorFrom: grayscale
+colorTo: rgb
 sdk: gradio
 sdk_version: 5.49.1
 app_file: app.py
